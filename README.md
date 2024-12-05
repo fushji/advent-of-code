@@ -1,4 +1,4 @@
-# Advent of Code 2024 🎄🎅🏻 Solutions in JavaScript
+# Advent of Code 🎄🎅🏻 Solutions in JavaScript
 This repository contains my solutions to the [Advent of Code 2024](https://adventofcode.com/2024) challenges implemented in JavaScript.
 
 ## Code structure
